@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Danh Sách Sản Phẩm">
+        <menu>
+            <item
+                android:id="@+id/nav_list_save"
+                android:icon="@mipmap/ic_save_black_24dp"
+                android:title="Lưu" />
+            <item
+                android:id="@+id/nav_list_my_product"
+                android:icon="@mipmap/ic_list_black_24dp"
+                android:title="Đã Bán" />
+        </menu>
+
+    </item>
+
+    <item android:title="Quản Lý Tài Khoản">
+        <menu>
+            <item
+                android:title="Profile"
+                android:id="@+id/profile"
+                android:icon="@drawable/businessman"/>
+            <item android:id="@+id/logout"
+                android:title="Đăng Xuất"
+                android:icon="@mipmap/ic_power_settings_new_black_24dp"
+                />
+        </menu>
+    </item>
+
+
+</menu>

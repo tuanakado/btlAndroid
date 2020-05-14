@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\BtlAndroid_AppRaoBan\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12bcda29769a401bef6cc53487c9a5d7304558de">
+        <dex dex="D:\AndroidStudioProjects\BtlAndroid_AppRaoBan\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9c30b429305a8481c6b2add7ba74427fbb28a172\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\truongle\.android\build-cache\3f86bbd897f1438474b6c54f1989f6fb06341594\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61d731cf60fb232cc0687bdec50600e87b5502de">
+        <dex dex="D:\AndroidStudioProjects\BtlAndroid_AppRaoBan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_06efb2377b1f467674c78558403d93ea83a1da24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\BtlAndroid_AppRaoBan\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\AndroidStudioProjects\BtlAndroid_AppRaoBan\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f2a5b732153f15f0faa69f6637982c245c28e727\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\truongle\.android\build-cache\d8bfa02b3722d8572862fe42be810e58cea63319\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6bd32b72098fecf44dcab3808a11e6b9fcb86b7b">
+        <dex dex="D:\AndroidStudioProjects\BtlAndroid_AppRaoBan\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6d850f3990a126fde295334cebb80db708e586a\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\BtlAndroid_AppRaoBan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\truongle\\.android\\build-cache\\3f86bbd897f1438474b6c54f1989f6fb06341594\\output\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\coinh\\Desktop\\ANDROID\\BtlAndroid_AppRaoBan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\coinh\\Desktop\\ANDROID\\BtlAndroid_AppRaoBan\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\coinh\\Desktop\\ANDROID\\BtlAndroid_AppRaoBan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_menu.xml",
+        "source": "C:\\Users\\coinh\\Desktop\\ANDROID\\BtlAndroid_AppRaoBan\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BtlAndroid_AppRaoBan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\AndroidStudioProjects\\BtlAndroid_AppRaoBan\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\coinh\\Desktop\\ANDROID\\BtlAndroid_AppRaoBan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\coinh\\.android\\build-cache\\82c84f6a419ca6b38c18c79a630992c584fd13ee\\output\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\BtlAndroid_AppRaoBan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_menu.xml",
+        "source": "D:\\AndroidStudioProjects\\BtlAndroid_AppRaoBan\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    }
+]

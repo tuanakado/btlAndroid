@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.truongle.btlandroid_appraoban.UpdateAcount">
+
+    <Button
+        android:id="@+id/buttonSubmitSetUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTextNickname"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="41dp"
+        android:text="Submit" />
+
+    <EditText
+        android:id="@+id/editTextNickname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageViewHinh"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="38dp"
+        android:hint="Enter your display name" />
+
+    <ImageView
+        android:id="@+id/imageViewHinh"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="38dp" />
+    "
+    android:ems="10"
+    android:inputType="textPersonName"
+    android:text="Name" />
+</RelativeLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.truongle.btlandroid_appraoban.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewss"
+        android:textColor="#e46464"
+        android:text="Đồ Cá Nhân"
+        android:textSize="20dp"
+        android:gravity="center"/>
+    <android.support.v7.widget.SearchView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/searchViewTab3"
+        android:layout_below="@+id/textViewss"
+        >
+
+    </android.support.v7.widget.SearchView>
+    <Spinner
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:id="@+id/spnTab3"
+        android:layout_below="@+id/searchViewTab3">
+
+    </Spinner>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:id="@+id/ListDoDungCaNhan"
+        android:layout_below="@+id/spnTab3"></android.support.v7.widget.RecyclerView>
+
+</RelativeLayout>
